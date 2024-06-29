@@ -8,5 +8,10 @@
   "protection": "プロテクション",
   "selfaid": "セルフエイド",
   "repairlight": "リペアライト",
-  "attackrise": "アタックライズ"
+  "attackrise": "アタックライズ",
+  "ice_graviton": "アイスグラビトン",
+  "thunder_graviton": "サンダーグラビトン",
+  "fire_graviton": "ファイアグラビトン",
+  "dark_graviton": "ダークグラビトン",
+  "light_graviton": "ライトグラビトン"
 }
